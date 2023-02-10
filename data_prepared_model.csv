@@ -1,0 +1,468 @@
+Rating,Type of ownership,Revenue,hourly,employer_provided,job_state,same_state,age,python_skill,rstudio_skill,spark_skill,aws_skill,excel_skill,size_number,job_simp,desc_len,avg_salary
+3.8,Company - Private,$50 to $100 million (USD),0.0,0.0, NM,0.0,50.0,1.0,0.0,0.0,0.0,1.0,501-1000,data scientist,2536.0,72.0
+3.4,Other Organization,$2 to $5 billion (USD),0.0,0.0, MD,0.0,39.0,1.0,0.0,0.0,0.0,0.0,10000+,data scientist,4783.0,87.5
+4.8,Company - Private,$100 to $500 million (USD),0.0,0.0, FL,1.0,13.0,1.0,0.0,1.0,0.0,1.0,501-1000,data scientist,3461.0,85.0
+3.8,Government,$500 million to $1 billion (USD),0.0,0.0, WA,1.0,58.0,1.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,3883.0,76.5
+2.9,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,1.0,25.0,1.0,0.0,0.0,0.0,1.0,51-200,data scientist,2728.0,114.5
+3.4,Company - Public,$1 to $2 billion (USD),0.0,0.0, TX,1.0,23.0,1.0,0.0,0.0,1.0,1.0,201-500,data scientist,3747.0,95.0
+4.1,Company - Private,Unknown / Non-Applicable,0.0,0.0, MD,1.0,15.0,0.0,0.0,0.0,0.0,1.0,501-1000,data scientist,1786.0,73.5
+3.8,Company - Private,$25 to $50 million (USD),0.0,0.0, CA,0.0,18.0,1.0,0.0,1.0,1.0,1.0,201-500,data scientist,3804.0,114.0
+3.3,Hospital,$500 million to $1 billion (USD),0.0,0.0, NY,1.0,9.0,0.0,0.0,0.0,0.0,0.0,10000+,scientist,1538.0,61.0
+4.6,Company - Private,$100 to $500 million (USD),0.0,0.0, NY,1.0,14.0,1.0,0.0,1.0,0.0,0.0,51-200,data scientist,4574.0,140.0
+3.5,Company - Private,$1 to $2 billion (USD),0.0,0.0, CA,0.0,12.0,1.0,0.0,0.0,0.0,0.0,501-1000,data scientist,2757.0,163.5
+4.1,Company - Public,$1 to $2 billion (USD),0.0,0.0, VA,0.0,55.0,0.0,0.0,0.0,0.0,0.0,5001-10000,data scientist,3490.0,85.0
+3.2,Company - Public,$10+ billion (USD),0.0,0.0, TX,0.0,61.0,0.0,0.0,0.0,0.0,0.0,10000+,data scientist,3934.0,139.0
+4.1,Company - Private,Unknown / Non-Applicable,0.0,0.0, WA,1.0,11.0,1.0,0.0,1.0,1.0,1.0,201-500,data engineer,4897.0,65.5
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,242.0,1.0,0.0,1.0,0.0,0.0,10000+,data scientist,3731.0,113.5
+3.6,Subsidiary or Business Segment,Unknown / Non-Applicable,0.0,0.0, NJ,1.0,28.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,1889.0,146.0
+3.9,Company - Public,$1 to $5 million (USD),0.0,0.0, MA,1.0,12.0,0.0,0.0,0.0,0.0,1.0,51-200,scientist,3639.0,102.0
+4.3,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,12.0,1.0,0.0,1.0,1.0,1.0,201-500,data scientist,4163.0,153.5
+4.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,13.0,0.0,0.0,0.0,0.0,0.0,51-200,data scientist,3512.0,142.5
+4.0,Nonprofit Organization,$500 million to $1 billion (USD),0.0,0.0, CO,1.0,108.0,1.0,0.0,0.0,0.0,1.0,501-1000,data scientist,4397.0,87.5
+3.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, WA,1.0,11.0,1.0,0.0,1.0,0.0,0.0,201-500,data scientist,2918.0,105.5
+3.9,Company - Private,Unknown / Non-Applicable,0.0,0.0, TX,0.0,10.0,0.0,0.0,0.0,0.0,1.0,201-500,data scientist,6909.0,96.0
+3.8,Company - Private,Unknown / Non-Applicable,0.0,0.0, IL,0.0,28.0,1.0,0.0,0.0,1.0,1.0,501-1000,data scientist,6408.0,112.5
+4.3,Nonprofit Organization,$10 to $25 million (USD),0.0,0.0, KY,0.0,88.0,1.0,0.0,0.0,0.0,1.0,51-200,data scientist,2907.0,84.0
+4.0,Company - Private,$100 to $500 million (USD),0.0,0.0, VA,0.0,11.0,1.0,0.0,0.0,1.0,0.0,501-1000,data scientist,3760.0,143.0
+4.0,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,174.0,1.0,0.0,0.0,1.0,1.0,10000+,data scientist,3698.0,86.5
+3.5,Company - Private,$100 to $500 million (USD),0.0,0.0, OR,0.0,71.0,1.0,0.0,1.0,1.0,1.0,1001-5000,data scientist,4420.0,99.5
+3.7,Company - Public,$5 to $10 billion (USD),0.0,0.0, MA,1.0,171.0,0.0,0.0,0.0,0.0,1.0,5001-10000,data engineer,4900.0,47.5
+4.0,Company - Public,$10+ billion (USD),0.0,0.0, CT,0.0,174.0,0.0,0.0,0.0,1.0,1.0,10000+,data scientist,5015.0,84.0
+3.6,Company - Private,$500 million to $1 billion (USD),0.0,0.0, MI,1.0,26.0,1.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,3342.0,96.0
+3.8,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,27.0,1.0,0.0,0.0,0.0,0.0,10000+,data scientist,5045.0,114.5
+3.8,Company - Public,$2 to $5 billion (USD),0.0,0.0, CA,1.0,27.0,1.0,0.0,1.0,0.0,1.0,5001-10000,data scientist,2327.0,121.0
+4.7,Company - Private,Unknown / Non-Applicable,0.0,0.0, MA,1.0,49.0,1.0,0.0,0.0,0.0,1.0,201-500,data scientist,2161.0,112.5
+4.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,0.0,15.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,1739.0,106.0
+3.5,Company - Private,$1 to $2 billion (USD),0.0,0.0, CA,1.0,54.0,1.0,0.0,1.0,1.0,0.0,1001-5000,data scientist,5000.0,107.0
+4.7,Company - Private,$100 to $500 million (USD),0.0,0.0, MA,1.0,13.0,1.0,0.0,1.0,0.0,1.0,201-500,data scientist,3703.0,110.0
+3.5,Company - Public,$1 to $2 billion (USD),0.0,0.0, CA,0.0,153.0,1.0,0.0,0.0,0.0,1.0,5001-10000,data scientist,3555.0,147.5
+3.5,Company - Private,$100 to $500 million (USD),0.0,0.0, NY,1.0,38.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,1739.0,106.0
+4.2,Company - Private,$50 to $100 million (USD),0.0,0.0, CA,1.0,15.0,1.0,0.0,0.0,1.0,1.0,201-500,data engineer,3053.0,88.0
+3.6,Company - Private,Less than $1 million (USD),0.0,0.0, MA,0.0,28.0,0.0,0.0,0.0,0.0,1.0,1-50,data engineer,1996.0,98.5
+4.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,13.0,0.0,0.0,0.0,0.0,0.0,51-200,data scientist,3833.0,142.5
+3.4,Company - Public,$2 to $5 billion (USD),0.0,0.0, NJ,0.0,8.0,0.0,0.0,0.0,1.0,0.0,5001-10000,scientist,3550.0,82.5
+4.3,Company - Public,$2 to $5 billion (USD),0.0,0.0, IL,1.0,30.0,1.0,0.0,1.0,0.0,1.0,1001-5000,data scientist,9120.0,130.0
+5.0,Company - Private,Unknown / Non-Applicable,0.0,1.0, DC,0.0,28.0,0.0,0.0,0.0,1.0,1.0,Unknown,data scientist,3213.0,155.0
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, WA,0.0,65.0,1.0,0.0,0.0,0.0,1.0,10000+,data scientist,7286.0,184.5
+3.1,Company - Private,$2 to $5 billion (USD),0.0,0.0, CO,0.0,37.0,0.0,0.0,0.0,0.0,1.0,5001-10000,data engineer,3412.0,29.5
+4.7,Company - Private,$100 to $500 million (USD),0.0,0.0, OH,0.0,24.0,0.0,0.0,0.0,0.0,0.0,501-1000,scientist,2682.0,86.5
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, IL,0.0,98.0,0.0,0.0,0.0,0.0,0.0,10000+,data scientist,2739.0,81.0
+3.8,Subsidiary or Business Segment,Unknown / Non-Applicable,0.0,0.0, FL,1.0,39.0,1.0,0.0,0.0,0.0,1.0,501-1000,data scientist,2915.0,91.0
+3.3,Company - Private,$10+ billion (USD),0.0,0.0, MA,1.0,111.0,1.0,0.0,0.0,0.0,0.0,10000+,data scientist,4244.0,114.5
+4.6,Company - Private,$100 to $500 million (USD),0.0,0.0, AL,1.0,21.0,1.0,0.0,0.0,0.0,1.0,1001-5000,data scientist,1629.0,68.0
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, NY,0.0,160.0,1.0,0.0,0.0,0.0,1.0,10000+,data scientist,4734.0,115.0
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, CA,0.0,84.0,0.0,0.0,0.0,0.0,1.0,10000+,data scientist,4448.0,109.5
+3.5,Company - Public,$1 to $2 billion (USD),0.0,0.0, NM,0.0,153.0,1.0,0.0,0.0,0.0,1.0,5001-10000,data scientist,3543.0,75.5
+4.1,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,0.0,11.0,1.0,0.0,1.0,0.0,1.0,501-1000,data scientist,4203.0,154.5
+4.7,Company - Private,Unknown / Non-Applicable,0.0,0.0, MO,1.0,7.0,1.0,0.0,1.0,0.0,0.0,51-200,data scientist,5020.0,143.5
+4.4,Subsidiary or Business Segment,Unknown / Non-Applicable,0.0,0.0, OH,1.0,138.0,1.0,0.0,0.0,1.0,0.0,201-500,data scientist,4804.0,107.0
+4.3,Company - Private,$10 to $25 million (USD),0.0,0.0, NY,1.0,12.0,1.0,0.0,1.0,1.0,0.0,201-500,data scientist,1382.0,115.0
+3.8,Company - Public,$50 to $100 million (USD),0.0,0.0, CA,1.0,17.0,0.0,0.0,0.0,0.0,0.0,501-1000,data scientist,2933.0,139.5
+3.8,Government,$500 million to $1 billion (USD),0.0,0.0, WA,1.0,58.0,0.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,4945.0,67.0
+3.8,Company - Public,$5 to $10 billion (USD),0.0,0.0, PA,1.0,75.0,1.0,0.0,0.0,0.0,0.0,10000+,data scientist,2493.0,85.0
+2.8,Company - Private,$1 to $5 million (USD),0.0,0.0, MA,1.0,17.0,1.0,0.0,0.0,0.0,1.0,51-200,data scientist,1939.0,118.0
+4.7,Company - Private,$25 to $50 million (USD),0.0,0.0, GA,1.0,20.0,1.0,0.0,0.0,0.0,1.0,51-200,data scientist,3081.0,79.5
+3.1,Company - Public,$100 to $500 million (USD),0.0,0.0, MA,1.0,24.0,1.0,0.0,0.0,0.0,0.0,201-500,data scientist,8397.0,56.5
+3.2,Company - Private,$5 to $10 million (USD),0.0,0.0, PA,0.0,28.0,1.0,0.0,1.0,1.0,0.0,1-50,data scientist,2306.0,128.5
+4.0,Company - Public,Unknown / Non-Applicable,0.0,0.0, WA,0.0,84.0,0.0,0.0,0.0,0.0,0.0,10000+,scientist,2291.0,97.5
+4.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, IN,0.0,8.0,1.0,0.0,0.0,0.0,0.0,1-50,data engineer,1886.0,66.5
+3.6,Company - Public,$10+ billion (USD),0.0,0.0, IL,1.0,96.0,1.0,0.0,0.0,0.0,1.0,10000+,data scientist,2903.0,179.5
+2.7,Subsidiary or Business Segment,$50 to $100 million (USD),0.0,0.0, MO,0.0,45.0,0.0,0.0,0.0,0.0,1.0,501-1000,scientist,2653.0,76.0
+3.9,Company - Private,$100 to $500 million (USD),0.0,0.0, VA,0.0,13.0,1.0,0.0,1.0,0.0,0.0,501-1000,data scientist,4427.0,112.0
+3.1,Company - Private,$1 to $2 billion (USD),0.0,0.0, PA,0.0,163.0,1.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,2609.0,98.0
+4.0,Company - Public,Unknown / Non-Applicable,0.0,0.0, WA,0.0,84.0,0.0,0.0,1.0,1.0,0.0,10000+,data scientist,4295.0,128.0
+4.3,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,12.0,1.0,0.0,1.0,1.0,1.0,201-500,data scientist,3405.0,150.5
+1.9,Company - Private,$10 to $25 million (USD),0.0,0.0, MA,1.0,23.0,0.0,0.0,0.0,1.0,0.0,51-200,scientist,5153.0,87.5
+3.3,Company - Private,$1 to $2 billion (USD),0.0,0.0, VA,0.0,6.0,1.0,0.0,0.0,0.0,1.0,1001-5000,data scientist,3381.0,110.0
+4.4,Company - Private,$500 million to $1 billion (USD),0.0,0.0, CA,0.0,28.0,1.0,0.0,0.0,0.0,1.0,10000+,data scientist,879.0,113.5
+3.9,Company - Private,$1 to $5 million (USD),0.0,0.0, CA,1.0,7.0,1.0,0.0,0.0,0.0,0.0,51-200,data scientist,4189.0,124.0
+4.7,Company - Private,$25 to $50 million (USD),0.0,0.0, PA,1.0,26.0,0.0,0.0,0.0,0.0,1.0,201-500,data engineer,4424.0,56.5
+4.5,Nonprofit Organization,$1 to $2 billion (USD),0.0,0.0, MD,1.0,81.0,1.0,0.0,0.0,0.0,1.0,5001-10000,data scientist,2996.0,130.0
+4.3,Company - Private,$10 to $25 million (USD),0.0,0.0, IL,1.0,15.0,0.0,0.0,0.0,0.0,1.0,51-200,data engineer,3682.0,77.5
+4.0,Company - Private,$50 to $100 million (USD),0.0,0.0, VA,1.0,21.0,1.0,0.0,0.0,1.0,1.0,201-500,data engineer,3819.0,87.0
+4.4,Company - Private,$100 to $500 million (USD),0.0,0.0, WA,1.0,75.0,0.0,0.0,0.0,0.0,1.0,501-1000,data engineer,1791.0,53.5
+4.2,Company - Private,$100 to $500 million (USD),0.0,0.0, FL,1.0,15.0,1.0,0.0,1.0,0.0,1.0,501-1000,data scientist,3204.0,85.5
+4.5,Company - Private,$25 to $50 million (USD),0.0,0.0, AL,0.0,27.0,0.0,0.0,0.0,0.0,1.0,51-200,data engineer,2253.0,48.0
+3.5,Company - Private,Unknown / Non-Applicable,0.0,0.0, LA,1.0,24.0,0.0,0.0,0.0,0.0,1.0,51-200,data engineer,2772.0,48.0
+3.5,Company - Public,$100 to $500 million (USD),0.0,0.0, CA,1.0,33.0,0.0,0.0,0.0,0.0,1.0,201-500,scientist,4751.0,174.0
+3.9,Company - Public,$1 to $2 billion (USD),0.0,0.0, GA,0.0,55.0,1.0,0.0,1.0,0.0,0.0,5001-10000,data scientist,2380.0,85.0
+4.7,Company - Private,$10 to $25 million (USD),0.0,0.0, MD,0.0,20.0,0.0,0.0,0.0,0.0,0.0,51-200,data engineer,2723.0,106.5
+4.2,Company - Private,$100 to $500 million (USD),0.0,0.0, MD,0.0,35.0,0.0,0.0,0.0,0.0,1.0,1001-5000,scientist,2337.0,72.5
+3.4,Subsidiary or Business Segment,$10+ billion (USD),0.0,0.0, MD,0.0,27.0,0.0,0.0,0.0,0.0,0.0,10000+,scientist,4088.0,85.5
+3.2,Nonprofit Organization,$1 to $2 billion (USD),0.0,0.0, VA,0.0,65.0,1.0,0.0,0.0,0.0,1.0,5001-10000,data scientist,5342.0,97.5
+3.9,Company - Private,$100 to $500 million (USD),0.0,0.0, VA,0.0,13.0,1.0,0.0,0.0,0.0,1.0,501-1000,data scientist,2588.0,99.0
+3.1,Company - Private,$2 to $5 billion (USD),0.0,0.0, WI,0.0,22.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,4203.0,56.5
+4.1,Company - Private,Unknown / Non-Applicable,0.0,0.0, MD,1.0,16.0,1.0,0.0,0.0,0.0,0.0,1-50,data scientist,5467.0,133.0
+3.8,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,1.0,11.0,1.0,0.0,1.0,0.0,0.0,51-200,data scientist,3443.0,121.0
+4.7,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,1.0,31.0,1.0,0.0,0.0,0.0,0.0,501-1000,data scientist,3316.0,85.5
+4.3,Subsidiary or Business Segment,Unknown / Non-Applicable,0.0,0.0, TX,0.0,8.0,1.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,3717.0,87.5
+4.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, DC,1.0,88.0,1.0,0.0,0.0,0.0,1.0,1001-5000,data scientist,3301.0,237.5
+3.9,Company - Private,$100 to $500 million (USD),0.0,0.0, NC,0.0,26.0,1.0,0.0,1.0,0.0,0.0,1001-5000,data engineer,5483.0,95.5
+3.3,Company - Public,$5 to $10 billion (USD),0.0,0.0, MI,0.0,29.0,1.0,0.0,1.0,1.0,1.0,10000+,data scientist,4753.0,104.5
+4.7,Company - Private,Unknown / Non-Applicable,0.0,0.0, NJ,0.0,11.0,0.0,0.0,0.0,0.0,1.0,201-500,data engineer,5609.0,56.5
+4.3,Company - Private,$25 to $50 million (USD),0.0,0.0, AZ,1.0,13.0,0.0,0.0,0.0,0.0,1.0,201-500,data engineer,3209.0,55.0
+2.9,Hospital,Unknown / Non-Applicable,0.0,0.0, NE,1.0,46.0,0.0,0.0,0.0,0.0,1.0,1001-5000,scientist,4917.0,61.5
+4.5,Company - Private,$100 to $500 million (USD),0.0,0.0, CA,1.0,17.0,0.0,0.0,1.0,1.0,0.0,201-500,data scientist,5139.0,157.0
+3.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, NJ,1.0,4.0,1.0,0.0,0.0,0.0,0.0,201-500,data engineer,2232.0,78.0
+3.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,8.0,0.0,0.0,1.0,0.0,1.0,51-200,data scientist,3158.0,132.5
+4.0,Company - Public,$2 to $5 billion (USD),0.0,0.0, CA,0.0,41.0,1.0,0.0,1.0,0.0,0.0,5001-10000,data engineer,3443.0,108.0
+4.6,Company - Private,$50 to $100 million (USD),0.0,0.0, IN,1.0,86.0,0.0,0.0,0.0,0.0,0.0,501-1000,data scientist,741.0,80.5
+2.8,Company - Private,Unknown / Non-Applicable,0.0,0.0, MD,1.0,23.0,1.0,0.0,0.0,0.0,0.0,201-500,data scientist,3899.0,107.5
+4.7,Company - Private,$25 to $50 million (USD),0.0,0.0, MN,1.0,27.0,0.0,0.0,1.0,1.0,0.0,51-200,data engineer,2896.0,95.0
+3.0,Nonprofit Organization,Unknown / Non-Applicable,0.0,0.0, CA,1.0,26.0,1.0,0.0,1.0,0.0,0.0,1001-5000,data scientist,3947.0,119.5
+3.2,Company - Private,$1 to $2 billion (USD),0.0,0.0, NC,0.0,23.0,0.0,0.0,1.0,1.0,0.0,1001-5000,data engineer,2620.0,134.0
+4.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, MA,1.0,24.0,1.0,0.0,0.0,0.0,1.0,201-500,data scientist,4188.0,100.5
+3.5,Company - Public,$500 million to $1 billion (USD),0.0,0.0, OH,1.0,145.0,1.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,7231.0,107.5
+4.0,Company - Private,Unknown / Non-Applicable,0.0,0.0, DC,1.0,8.0,1.0,0.0,1.0,1.0,0.0,51-200,data engineer,4064.0,122.0
+4.3,Company - Public,$2 to $5 billion (USD),0.0,0.0, IL,1.0,30.0,1.0,0.0,1.0,0.0,1.0,1001-5000,data engineer,8175.0,92.5
+2.3,Company - Private,$100 to $500 million (USD),0.0,0.0, MD,1.0,37.0,0.0,0.0,0.0,0.0,1.0,501-1000,data engineer,1822.0,62.0
+4.0,Unknown,$25 to $50 million (USD),0.0,0.0, AL,0.0,23.0,0.0,0.0,0.0,0.0,0.0,51-200,scientist,2773.0,39.5
+3.6,Company - Private,$100 to $500 million (USD),0.0,0.0, Los Angeles,0.0,57.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data scientist,3987.0,107.5
+3.8,Company - Private,Unknown / Non-Applicable,0.0,0.0, MO,1.0,6.0,1.0,0.0,0.0,1.0,1.0,501-1000,data engineer,4154.0,40.5
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, VA,0.0,65.0,1.0,0.0,1.0,0.0,0.0,10000+,data scientist,5002.0,89.5
+4.4,Company - Private,$50 to $100 million (USD),0.0,0.0, IL,1.0,15.0,1.0,0.0,0.0,1.0,1.0,201-500,data scientist,3154.0,81.0
+4.0,Company - Private,$100 to $500 million (USD),0.0,0.0, VA,0.0,11.0,1.0,0.0,0.0,1.0,0.0,501-1000,data scientist,3698.0,147.0
+3.2,Company - Private,$100 to $500 million (USD),0.0,0.0, TX,1.0,65.0,1.0,0.0,0.0,0.0,1.0,1001-5000,data scientist,3991.0,85.0
+2.9,Company - Private,$1 to $2 billion (USD),0.0,0.0, CA,0.0,52.0,0.0,0.0,0.0,0.0,1.0,1001-5000,scientist,5619.0,81.5
+3.8,Company - Public,$500 million to $1 billion (USD),0.0,0.0, CA,0.0,26.0,0.0,0.0,0.0,0.0,1.0,1001-5000,scientist,6275.0,168.0
+4.3,Company - Private,Unknown / Non-Applicable,0.0,0.0, CO,1.0,16.0,1.0,0.0,1.0,1.0,1.0,1-50,data engineer,3549.0,100.5
+3.4,Company - Private,$100 to $500 million (USD),0.0,0.0, NY,0.0,80.0,1.0,0.0,1.0,0.0,1.0,1001-5000,data scientist,7548.0,97.0
+5.0,Company - Private,Unknown / Non-Applicable,0.0,1.0, FL,0.0,6.0,0.0,0.0,0.0,0.0,0.0,51-200,data engineer,688.0,132.5
+4.3,Company - Private,$10 to $25 million (USD),0.0,0.0, IL,1.0,15.0,0.0,0.0,1.0,0.0,1.0,51-200,data engineer,3055.0,100.0
+3.7,Company - Private,Unknown / Non-Applicable,0.0,0.0, CO,1.0,12.0,1.0,0.0,0.0,0.0,0.0,201-500,data scientist,3353.0,105.0
+4.2,Nonprofit Organization,Unknown / Non-Applicable,0.0,0.0, UT,0.0,28.0,0.0,0.0,0.0,1.0,1.0,10000+,data engineer,3066.0,87.0
+4.3,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,10.0,0.0,0.0,0.0,0.0,1.0,51-200,data engineer,1806.0,103.5
+2.6,College / University,Unknown / Non-Applicable,0.0,0.0, PA,1.0,39.0,1.0,0.0,0.0,0.0,1.0,501-1000,scientist,6130.0,124.0
+3.8,Government,$500 million to $1 billion (USD),0.0,0.0, WA,1.0,58.0,1.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,6844.0,67.0
+3.9,Company - Private,$2 to $5 billion (USD),0.0,0.0, DC,0.0,23.0,0.0,0.0,0.0,0.0,0.0,10000+,data engineer,3217.0,87.0
+4.3,Company - Private,Unknown / Non-Applicable,0.0,0.0, IL,0.0,12.0,1.0,0.0,1.0,1.0,1.0,201-500,data scientist,3405.0,137.5
+3.8,Company - Private,$100 to $500 million (USD),0.0,0.0, OH,1.0,36.0,1.0,0.0,0.0,0.0,1.0,201-500,data scientist,5526.0,100.0
+3.8,Nonprofit Organization,$5 to $10 billion (USD),0.0,0.0, TN,1.0,78.0,0.0,0.0,0.0,0.0,1.0,5001-10000,data engineer,5743.0,106.5
+3.8,Government,$500 million to $1 billion (USD),0.0,0.0, WA,1.0,58.0,0.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,4904.0,98.5
+4.8,Company - Private,$100 to $500 million (USD),0.0,0.0, FL,1.0,13.0,1.0,0.0,0.0,0.0,1.0,501-1000,data engineer,2934.0,61.0
+4.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, IN,1.0,15.0,1.0,0.0,1.0,1.0,0.0,51-200,data scientist,4127.0,106.5
+3.9,Company - Private,Unknown / Non-Applicable,0.0,0.0, MA,1.0,18.0,1.0,0.0,1.0,0.0,0.0,51-200,data engineer,2075.0,84.5
+3.4,Company - Public,$2 to $5 billion (USD),0.0,0.0, NJ,1.0,177.0,1.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,2962.0,109.5
+3.6,Company - Private,$10+ billion (USD),0.0,0.0, MA,0.0,172.0,1.0,0.0,1.0,1.0,0.0,5001-10000,data scientist,4414.0,164.0
+3.9,Subsidiary or Business Segment,$10+ billion (USD),0.0,0.0, CA,1.0,47.0,1.0,0.0,1.0,0.0,1.0,10000+,data scientist,7106.0,169.0
+3.8,Company - Public,$2 to $5 billion (USD),0.0,0.0, CA,0.0,27.0,1.0,0.0,1.0,1.0,1.0,5001-10000,data scientist,2397.0,142.0
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,242.0,0.0,0.0,0.0,0.0,1.0,10000+,scientist,2468.0,76.5
+3.8,Company - Private,$500 million to $1 billion (USD),0.0,0.0, MD,1.0,42.0,1.0,0.0,0.0,0.0,1.0,501-1000,data scientist,3010.0,107.0
+3.5,Company - Public,$10+ billion (USD),0.0,0.0, CA,1.0,53.0,1.0,0.0,0.0,1.0,0.0,10000+,data scientist,4486.0,171.5
+4.2,Nonprofit Organization,Unknown / Non-Applicable,0.0,0.0, UT,0.0,28.0,0.0,0.0,0.0,0.0,1.0,10000+,data engineer,2617.0,107.0
+3.5,Company - Private,$1 to $2 billion (USD),0.0,0.0, MA,1.0,13.0,1.0,0.0,0.0,0.0,1.0,1001-5000,scientist,5391.0,145.0
+2.9,Nonprofit Organization,$25 to $50 million (USD),0.0,0.0, VA,1.0,30.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,5736.0,61.5
+3.6,Nonprofit Organization,Unknown / Non-Applicable,1.0,0.0, PA,0.0,6.0,0.0,0.0,0.0,0.0,0.0,5001-10000,scientist,2117.0,20.5
+2.7,Government,$50 to $100 million (USD),0.0,0.0, WI,1.0,72.0,1.0,0.0,0.0,0.0,0.0,51-200,data scientist,6467.0,120.0
+4.4,Company - Public,$100 to $500 million (USD),0.0,0.0, MA,1.0,10.0,0.0,0.0,0.0,0.0,0.0,201-500,scientist,5512.0,62.0
+4.0,Company - Public,$2 to $5 billion (USD),0.0,0.0, CA,0.0,41.0,1.0,0.0,1.0,0.0,0.0,5001-10000,data scientist,2525.0,150.5
+4.3,Company - Private,Unknown / Non-Applicable,0.0,0.0, MI,0.0,56.0,0.0,0.0,0.0,0.0,1.0,201-500,data engineer,1961.0,87.5
+4.2,Company - Public,$25 to $50 million (USD),0.0,0.0, FL,1.0,17.0,1.0,0.0,1.0,1.0,1.0,51-200,data engineer,10051.0,71.5
+3.6,Subsidiary or Business Segment,$100 to $500 million (USD),0.0,0.0, CA,1.0,17.0,0.0,0.0,0.0,0.0,1.0,51-200,data engineer,4353.0,51.5
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, CA,0.0,242.0,0.0,0.0,0.0,0.0,1.0,10000+,scientist,5801.0,151.5
+2.8,Company - Private,Unknown / Non-Applicable,0.0,0.0, NJ,1.0,9.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,5894.0,77.5
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,242.0,0.0,0.0,0.0,0.0,1.0,10000+,scientist,2309.0,140.0
+3.3,Company - Private,$10 to $25 million (USD),0.0,0.0, NJ,0.0,41.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data scientist,3239.0,98.5
+3.3,Company - Private,$5 to $10 million (USD),0.0,1.0, CA,0.0,6.0,1.0,0.0,0.0,1.0,1.0,51-200,data scientist,1632.0,225.0
+3.6,Nonprofit Organization,$100 to $500 million (USD),1.0,0.0, DE,1.0,88.0,0.0,0.0,0.0,0.0,0.0,1001-5000,scientist,2724.0,27.5
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,242.0,0.0,0.0,0.0,0.0,0.0,10000+,scientist,1345.0,161.5
+3.4,Company - Public,$1 to $2 billion (USD),0.0,0.0, NY,0.0,75.0,1.0,0.0,1.0,1.0,0.0,1001-5000,data scientist,4835.0,147.0
+4.1,Company - Private,$1 to $2 billion (USD),0.0,0.0, MO,1.0,62.0,0.0,0.0,0.0,0.0,1.0,501-1000,data engineer,2886.0,61.0
+2.6,College / University,Unknown / Non-Applicable,0.0,0.0, PA,1.0,39.0,1.0,0.0,0.0,0.0,0.0,501-1000,scientist,2808.0,120.0
+3.2,Company - Public,$500 million to $1 billion (USD),0.0,0.0, AZ,0.0,15.0,1.0,0.0,0.0,0.0,1.0,1001-5000,data scientist,1925.0,124.5
+3.9,Company - Private,$50 to $100 million (USD),0.0,0.0, CA,1.0,14.0,1.0,0.0,0.0,0.0,0.0,51-200,data scientist,2364.0,148.0
+4.7,Company - Private,$25 to $50 million (USD),0.0,0.0, AL,0.0,27.0,1.0,0.0,0.0,0.0,1.0,51-200,data engineer,3088.0,59.0
+3.7,Company - Public,$5 to $10 billion (USD),0.0,0.0, MA,1.0,171.0,1.0,0.0,0.0,0.0,1.0,5001-10000,data scientist,5123.0,146.5
+2.9,Company - Public,Unknown / Non-Applicable,0.0,0.0, MA,1.0,28.0,0.0,0.0,0.0,0.0,1.0,201-500,scientist,3984.0,91.5
+3.0,Company - Private,Unknown / Non-Applicable,0.0,0.0, IL,1.0,8.0,1.0,0.0,0.0,1.0,0.0,501-1000,scientist,3280.0,133.0
+4.7,Company - Private,$1 to $5 million (USD),0.0,0.0, UT,1.0,10.0,1.0,0.0,0.0,1.0,0.0,51-200,data scientist,4819.0,140.5
+3.7,Company - Private,Unknown / Non-Applicable,0.0,0.0, LA,0.0,28.0,0.0,0.0,0.0,0.0,1.0,501-1000,data engineer,3670.0,70.5
+3.3,Hospital,$500 million to $1 billion (USD),0.0,0.0, NY,1.0,9.0,0.0,0.0,0.0,0.0,0.0,10000+,scientist,3670.0,84.5
+4.0,Company - Private,$5 to $10 million (USD),0.0,0.0, MD,1.0,21.0,0.0,0.0,0.0,0.0,1.0,51-200,data engineer,4637.0,93.5
+4.4,Company - Public,$100 to $500 million (USD),0.0,0.0, MA,1.0,10.0,0.0,0.0,0.0,0.0,0.0,201-500,scientist,4438.0,134.5
+3.9,Company - Private,$10 to $25 million (USD),0.0,0.0, CA,1.0,16.0,1.0,0.0,1.0,0.0,0.0,201-500,data engineer,2015.0,181.0
+3.3,Hospital,$500 million to $1 billion (USD),0.0,0.0, NY,1.0,9.0,0.0,0.0,0.0,0.0,0.0,10000+,scientist,3627.0,84.5
+4.1,Company - Private,$50 to $100 million (USD),0.0,0.0, CA,1.0,13.0,1.0,0.0,1.0,1.0,0.0,51-200,data engineer,4037.0,205.0
+3.6,Company - Private,$100 to $500 million (USD),0.0,0.0, CA,1.0,37.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,4608.0,48.5
+4.0,Hospital,$50 to $100 million (USD),1.0,0.0, TX,0.0,46.0,0.0,0.0,0.0,1.0,0.0,1001-5000,scientist,5160.0,21.5
+2.4,Company - Private,$100 to $500 million (USD),0.0,0.0, IL,0.0,28.0,0.0,0.0,0.0,0.0,0.0,501-1000,scientist,2433.0,52.5
+2.6,College / University,Unknown / Non-Applicable,0.0,0.0, PA,1.0,39.0,0.0,0.0,0.0,0.0,0.0,501-1000,scientist,5379.0,124.0
+3.5,Nonprofit Organization,$500 million to $1 billion (USD),0.0,0.0, CA,1.0,27.0,0.0,0.0,0.0,0.0,0.0,501-1000,data engineer,3846.0,64.0
+3.0,Company - Private,$10+ billion (USD),0.0,0.0, TN,1.0,65.0,1.0,0.0,0.0,0.0,0.0,10000+,data engineer,2133.0,98.0
+3.6,Nonprofit Organization,$100 to $500 million (USD),1.0,0.0, DE,0.0,88.0,0.0,0.0,0.0,0.0,0.0,1001-5000,scientist,2801.0,27.5
+3.3,Company - Private,Unknown / Non-Applicable,0.0,0.0, WI,1.0,59.0,0.0,0.0,0.0,0.0,0.0,501-1000,scientist,2832.0,54.0
+2.7,Company - Private,$25 to $50 million (USD),0.0,0.0, MD,1.0,62.0,0.0,0.0,0.0,0.0,1.0,201-500,scientist,3776.0,81.0
+3.4,Company - Public,$2 to $5 billion (USD),0.0,0.0, IL,1.0,18.0,0.0,0.0,0.0,0.0,0.0,1001-5000,data engineer,4288.0,107.5
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, VA,0.0,28.0,1.0,0.0,1.0,0.0,1.0,10000+,data scientist,5298.0,89.0
+4.8,Company - Private,$1 to $2 billion (USD),0.0,0.0, WI,1.0,98.0,0.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,1806.0,100.5
+3.8,Company - Private,$2 to $5 billion (USD),0.0,0.0, NY,1.0,21.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,2469.0,65.0
+3.4,Government,Unknown / Non-Applicable,1.0,0.0, LA,0.0,93.0,0.0,0.0,0.0,0.0,0.0,10000+,scientist,9322.0,20.0
+4.3,Subsidiary or Business Segment,Unknown / Non-Applicable,0.0,0.0, TX,1.0,24.0,1.0,0.0,1.0,1.0,1.0,201-500,data scientist,5775.0,72.5
+3.4,Company - Private,$10 to $25 million (USD),0.0,0.0, IL,1.0,31.0,0.0,0.0,0.0,0.0,0.0,51-200,data scientist,4082.0,87.5
+3.1,Company - Public,$10+ billion (USD),0.0,0.0, CA,0.0,26.0,1.0,1.0,0.0,0.0,1.0,1001-5000,data engineer,3123.0,92.5
+3.2,Nonprofit Organization,$1 to $2 billion (USD),0.0,0.0, VA,0.0,65.0,1.0,0.0,1.0,0.0,0.0,5001-10000,data scientist,3144.0,81.5
+4.3,Company - Private,Unknown / Non-Applicable,0.0,0.0, OH,1.0,42.0,0.0,0.0,0.0,0.0,0.0,1001-5000,data engineer,1884.0,79.0
+2.8,Nonprofit Organization,$50 to $100 million (USD),0.0,0.0, CA,0.0,28.0,0.0,0.0,0.0,0.0,1.0,501-1000,data engineer,5435.0,47.5
+3.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,10.0,1.0,0.0,0.0,0.0,1.0,51-200,data engineer,5483.0,69.0
+4.0,Company - Private,$50 to $100 million (USD),0.0,0.0, ID,0.0,39.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,2505.0,49.0
+3.7,Company - Private,Unknown / Non-Applicable,0.0,0.0, NJ,1.0,27.0,0.0,0.0,0.0,0.0,1.0,201-500,data engineer,2774.0,59.0
+3.5,Company - Private,$25 to $50 million (USD),0.0,0.0, IN,0.0,4.0,0.0,0.0,0.0,1.0,0.0,201-500,data scientist,7107.0,88.5
+4.7,Company - Private,$50 to $100 million (USD),0.0,0.0, NY,0.0,31.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,4135.0,114.5
+4.4,Company - Public,$100 to $500 million (USD),0.0,0.0, TN,0.0,17.0,1.0,0.0,1.0,1.0,1.0,1001-5000,data engineer,4471.0,88.0
+4.1,Company - Private,$100 to $500 million (USD),0.0,0.0, IL,1.0,22.0,1.0,0.0,1.0,1.0,0.0,501-1000,data engineer,4948.0,100.0
+2.5,Company - Public,$1 to $2 billion (USD),0.0,0.0, OR,0.0,24.0,1.0,0.0,1.0,0.0,0.0,1001-5000,data scientist,4466.0,96.5
+4.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, MN,0.0,31.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,2385.0,76.0
+3.9,Company - Private,$100 to $500 million (USD),0.0,0.0, NY,1.0,57.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data scientist,5019.0,15.5
+4.3,Company - Private,Unknown / Non-Applicable,0.0,0.0, TX,1.0,13.0,1.0,0.0,0.0,0.0,1.0,1-50,data scientist,3111.0,83.5
+3.9,Subsidiary or Business Segment,$10+ billion (USD),0.0,0.0, CA,1.0,47.0,0.0,0.0,0.0,0.0,1.0,10000+,data scientist,4502.0,163.0
+3.4,Nonprofit Organization,Unknown / Non-Applicable,0.0,0.0, RI,1.0,84.0,0.0,0.0,0.0,1.0,0.0,501-1000,data engineer,4837.0,100.0
+3.8,Nonprofit Organization,Unknown / Non-Applicable,0.0,0.0, NE,1.0,106.0,0.0,0.0,0.0,0.0,1.0,1001-5000,scientist,4837.0,52.5
+3.3,Nonprofit Organization,Unknown / Non-Applicable,0.0,0.0, DC,1.0,140.0,0.0,0.0,0.0,0.0,1.0,501-1000,data engineer,4135.0,50.0
+3.4,Company - Private,$50 to $100 million (USD),0.0,0.0, TX,0.0,17.0,1.0,0.0,0.0,1.0,0.0,201-500,data engineer,3799.0,93.0
+3.0,Company - Private,$2 to $5 billion (USD),0.0,0.0, OH,0.0,136.0,1.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,3421.0,94.5
+3.7,Company - Public,$5 to $10 billion (USD),0.0,0.0, NC,0.0,19.0,1.0,0.0,1.0,1.0,1.0,1001-5000,data scientist,5558.0,102.0
+3.2,Company - Private,$5 to $10 million (USD),0.0,0.0, PA,0.0,28.0,1.0,0.0,1.0,1.0,1.0,1-50,data scientist,1817.0,155.0
+3.9,Company - Private,$10 to $25 million (USD),0.0,0.0, CA,0.0,23.0,1.0,0.0,1.0,0.0,0.0,51-200,data scientist,3029.0,108.0
+4.2,Company - Private,$50 to $100 million (USD),0.0,0.0, ID,1.0,19.0,0.0,0.0,0.0,0.0,1.0,501-1000,data engineer,2643.0,63.5
+4.0,Company - Private,Less than $1 million (USD),0.0,0.0, CA,0.0,28.0,1.0,0.0,0.0,0.0,0.0,1-50,data scientist,714.0,109.0
+3.5,Company - Public,$500 million to $1 billion (USD),0.0,0.0, TN,0.0,173.0,1.0,0.0,0.0,0.0,0.0,5001-10000,data scientist,3796.0,96.0
+3.2,Company - Public,$500 million to $1 billion (USD),0.0,0.0, CA,0.0,15.0,1.0,0.0,0.0,1.0,1.0,1001-5000,data engineer,2501.0,101.0
+3.9,Company - Private,$1 to $2 billion (USD),0.0,0.0, IA,1.0,75.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,3490.0,77.5
+3.5,Company - Public,Unknown / Non-Applicable,0.0,0.0, CA,0.0,26.0,1.0,0.0,0.0,0.0,1.0,10000+,data scientist,1231.0,90.0
+4.3,Company - Public,$5 to $10 billion (USD),0.0,0.0, NJ,0.0,121.0,0.0,0.0,0.0,1.0,0.0,501-1000,data engineer,6600.0,58.0
+3.6,Company - Public,$500 million to $1 billion (USD),0.0,0.0, NY,1.0,279.0,1.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,2041.0,128.0
+2.3,Company - Public,$100 to $500 million (USD),0.0,0.0, DC,1.0,20.0,1.0,0.0,0.0,0.0,1.0,201-500,data scientist,1727.0,101.0
+4.0,Company - Private,$100 to $500 million (USD),0.0,0.0, VA,0.0,11.0,1.0,0.0,0.0,1.0,0.0,501-1000,data scientist,4637.0,142.0
+4.1,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,16.0,0.0,0.0,0.0,1.0,1.0,1-50,data scientist,4743.0,169.0
+4.2,Company - Private,$10 to $25 million (USD),0.0,0.0, CA,0.0,36.0,1.0,0.0,0.0,0.0,0.0,51-200,data engineer,3849.0,52.5
+4.6,Company - Private,$50 to $100 million (USD),0.0,0.0, TX,0.0,41.0,0.0,0.0,1.0,0.0,0.0,501-1000,data engineer,2047.0,75.5
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, NY,0.0,160.0,1.0,0.0,0.0,0.0,1.0,10000+,data scientist,4929.0,139.0
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,242.0,1.0,0.0,1.0,1.0,1.0,10000+,data engineer,4475.0,102.5
+4.4,Company - Private,$25 to $50 million (USD),0.0,0.0, SC,0.0,94.0,0.0,0.0,0.0,0.0,0.0,201-500,scientist,1934.0,60.5
+3.9,Subsidiary or Business Segment,$10+ billion (USD),0.0,0.0, CA,1.0,47.0,0.0,0.0,0.0,0.0,1.0,10000+,scientist,3965.0,125.0
+3.6,Company - Private,$10+ billion (USD),0.0,0.0, MA,1.0,172.0,1.0,0.0,0.0,0.0,0.0,5001-10000,data engineer,4898.0,81.0
+3.4,Subsidiary or Business Segment,$10+ billion (USD),0.0,0.0, DC,0.0,27.0,0.0,0.0,0.0,0.0,1.0,10000+,data engineer,3256.0,77.0
+4.1,Company - Public,$1 to $2 billion (USD),0.0,0.0, VA,1.0,55.0,0.0,0.0,0.0,0.0,0.0,5001-10000,data engineer,3243.0,92.0
+3.8,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,27.0,0.0,0.0,0.0,0.0,0.0,10000+,data scientist,1937.0,121.0
+4.0,Company - Public,$2 to $5 billion (USD),0.0,0.0, CA,0.0,41.0,1.0,0.0,1.0,0.0,1.0,5001-10000,data engineer,2447.0,162.5
+3.9,Nonprofit Organization,$500 million to $1 billion (USD),0.0,0.0, TX,1.0,76.0,0.0,0.0,0.0,0.0,0.0,1001-5000,scientist,2026.0,60.0
+4.4,Nonprofit Organization,Unknown / Non-Applicable,0.0,1.0, CA,1.0,28.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,5924.0,87.5
+4.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, IN,0.0,8.0,1.0,0.0,1.0,0.0,0.0,1-50,data engineer,1868.0,90.5
+2.2,Subsidiary or Business Segment,$50 to $100 million (USD),0.0,0.0, TX,0.0,30.0,0.0,0.0,0.0,0.0,0.0,501-1000,data scientist,6612.0,110.0
+4.1,Company - Public,$1 to $2 billion (USD),0.0,0.0, VA,0.0,55.0,0.0,0.0,0.0,0.0,0.0,5001-10000,data engineer,4755.0,70.5
+3.8,Government,$500 million to $1 billion (USD),0.0,0.0, WA,1.0,58.0,1.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,6411.0,76.5
+3.6,Company - Private,$10+ billion (USD),0.0,0.0, MA,1.0,172.0,1.0,0.0,1.0,0.0,1.0,5001-10000,data engineer,2929.0,92.0
+3.5,Company - Private,$1 to $2 billion (USD),0.0,0.0, VA,0.0,54.0,1.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,4196.0,82.0
+3.3,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,15.0,0.0,0.0,0.0,0.0,0.0,201-500,data scientist,1688.0,164.5
+3.4,Company - Public,$50 to $100 million (USD),0.0,0.0, FL,1.0,32.0,0.0,0.0,0.0,0.0,0.0,201-500,data engineer,2290.0,44.0
+4.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, VA,0.0,8.0,1.0,0.0,1.0,0.0,0.0,1-50,data engineer,2353.0,109.0
+3.8,Company - Private,Unknown / Non-Applicable,0.0,0.0, TX,0.0,13.0,0.0,0.0,1.0,1.0,0.0,501-1000,data engineer,3297.0,149.5
+3.5,Company - Private,Unknown / Non-Applicable,0.0,0.0, DC,1.0,16.0,0.0,0.0,1.0,1.0,1.0,1001-5000,data engineer,4582.0,65.5
+3.5,Company - Public,Unknown / Non-Applicable,0.0,0.0, NC,1.0,6.0,1.0,0.0,1.0,0.0,1.0,1001-5000,data scientist,3870.0,124.5
+2.9,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,0.0,25.0,1.0,0.0,1.0,0.0,0.0,51-200,data engineer,3333.0,114.0
+3.9,Nonprofit Organization,Unknown / Non-Applicable,0.0,0.0, PA,1.0,86.0,1.0,0.0,0.0,0.0,0.0,501-1000,data engineer,3971.0,49.0
+3.7,Company - Private,$100 to $500 million (USD),0.0,0.0, VA,1.0,34.0,0.0,0.0,0.0,0.0,1.0,501-1000,data engineer,2632.0,71.0
+3.6,Company - Private,$10+ billion (USD),0.0,0.0, MA,0.0,172.0,0.0,0.0,0.0,0.0,0.0,5001-10000,data engineer,4425.0,101.0
+3.7,Company - Public,$5 to $10 billion (USD),0.0,0.0, IL,1.0,95.0,1.0,0.0,1.0,0.0,0.0,10000+,data engineer,5768.0,61.0
+3.1,Company - Private,$10+ billion (USD),0.0,0.0, KY,0.0,148.0,0.0,0.0,0.0,0.0,0.0,5001-10000,scientist,5182.0,103.5
+3.6,Company - Private,$10+ billion (USD),0.0,0.0, MA,1.0,172.0,0.0,0.0,0.0,0.0,1.0,5001-10000,data engineer,5647.0,63.0
+3.0,Company - Public,$10+ billion (USD),0.0,0.0, CT,0.0,42.0,0.0,0.0,0.0,0.0,1.0,10000+,data engineer,3449.0,62.5
+3.5,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,10.0,1.0,0.0,1.0,1.0,1.0,501-1000,data engineer,5743.0,94.5
+3.5,Company - Private,$1 to $2 billion (USD),0.0,0.0, MA,1.0,13.0,1.0,0.0,0.0,0.0,1.0,1001-5000,scientist,4517.0,154.5
+3.7,Company - Public,$500 million to $1 billion (USD),0.0,0.0, KS,0.0,50.0,1.0,0.0,0.0,0.0,1.0,501-1000,data engineer,2860.0,87.0
+3.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,1.0,20.0,1.0,0.0,0.0,1.0,1.0,501-1000,data engineer,2926.0,64.5
+2.1,Company - Public,$25 to $50 million (USD),0.0,0.0, CA,1.0,28.0,0.0,0.0,0.0,0.0,1.0,201-500,scientist,4300.0,111.5
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,242.0,0.0,0.0,1.0,1.0,1.0,10000+,data engineer,6817.0,154.5
+4.4,Company - Private,$50 to $100 million (USD),0.0,0.0, IL,1.0,15.0,1.0,0.0,0.0,1.0,1.0,201-500,data scientist,3160.0,128.5
+3.7,Hospital,$100 to $500 million (USD),1.0,0.0, CO,1.0,57.0,0.0,0.0,0.0,0.0,0.0,501-1000,scientist,1945.0,31.5
+3.9,Company - Public,$10+ billion (USD),0.0,0.0, NY,0.0,110.0,1.0,0.0,0.0,0.0,0.0,10000+,data scientist,3169.0,137.0
+4.0,Nonprofit Organization,$500 million to $1 billion (USD),0.0,0.0, CO,1.0,108.0,1.0,0.0,0.0,1.0,0.0,501-1000,data engineer,4701.0,99.0
+4.4,Company - Private,$1 to $2 billion (USD),0.0,0.0, MA,1.0,39.0,1.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,2518.0,139.5
+3.4,Company - Private,$25 to $50 million (USD),0.0,0.0, MD,0.0,24.0,0.0,0.0,0.0,1.0,0.0,201-500,data engineer,3677.0,109.0
+3.3,Company - Private,$10+ billion (USD),0.0,0.0, IL,0.0,111.0,1.0,0.0,0.0,0.0,0.0,10000+,data scientist,4471.0,254.0
+2.9,Subsidiary or Business Segment,Unknown / Non-Applicable,0.0,0.0, CA,0.0,11.0,0.0,0.0,0.0,0.0,0.0,201-500,scientist,3725.0,73.0
+3.1,Company - Private,$10+ billion (USD),0.0,0.0, NC,1.0,148.0,0.0,0.0,0.0,0.0,1.0,5001-10000,scientist,7121.0,99.5
+3.3,Company - Private,$500 million to $1 billion (USD),0.0,0.0, OH,1.0,34.0,0.0,0.0,0.0,0.0,0.0,501-1000,data engineer,2867.0,45.5
+4.5,Company - Private,$25 to $50 million (USD),0.0,0.0, IN,1.0,27.0,1.0,0.0,1.0,1.0,0.0,51-200,data engineer,2311.0,122.5
+3.9,Company - Public,$1 to $2 billion (USD),0.0,0.0, IL,1.0,55.0,1.0,0.0,0.0,0.0,1.0,5001-10000,data scientist,5338.0,140.0
+3.2,Nonprofit Organization,$1 to $2 billion (USD),0.0,0.0, VA,0.0,65.0,0.0,0.0,0.0,0.0,0.0,5001-10000,data scientist,3243.0,77.5
+3.3,Company - Private,Unknown / Non-Applicable,1.0,1.0, MA,1.0,47.0,0.0,0.0,0.0,0.0,1.0,1-50,scientist,1848.0,26.5
+3.1,Company - Private,$10+ billion (USD),0.0,0.0, NC,1.0,148.0,0.0,0.0,0.0,0.0,1.0,5001-10000,scientist,7361.0,117.5
+2.4,Company - Private,$50 to $100 million (USD),0.0,0.0, CA,1.0,17.0,0.0,0.0,0.0,0.0,0.0,501-1000,scientist,3374.0,70.5
+4.8,Company - Private,$25 to $50 million (USD),0.0,0.0, CA,1.0,12.0,0.0,0.0,0.0,0.0,1.0,51-200,data engineer,3693.0,61.5
+2.9,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,0.0,8.0,0.0,0.0,0.0,0.0,1.0,1001-5000,scientist,4707.0,70.0
+2.9,Company - Private,Unknown / Non-Applicable,0.0,0.0, GA,0.0,8.0,0.0,0.0,0.0,0.0,1.0,1001-5000,scientist,4613.0,80.0
+3.4,Company - Private,$100 to $500 million (USD),0.0,0.0, MA,1.0,35.0,0.0,0.0,1.0,0.0,1.0,1001-5000,data engineer,2752.0,90.0
+3.0,Company - Private,Unknown / Non-Applicable,0.0,1.0, MA,0.0,28.0,0.0,0.0,0.0,0.0,1.0,Unknown,scientist,3309.0,120.0
+2.6,College / University,Unknown / Non-Applicable,0.0,0.0, PA,1.0,39.0,0.0,0.0,0.0,0.0,1.0,501-1000,scientist,3078.0,73.5
+3.6,Company - Private,$10+ billion (USD),0.0,0.0, MA,0.0,172.0,1.0,0.0,1.0,1.0,1.0,5001-10000,data engineer,4624.0,129.5
+4.0,Company - Public,$10+ billion (USD),0.0,0.0, NY,1.0,174.0,0.0,0.0,0.0,1.0,1.0,10000+,data scientist,4914.0,167.5
+3.8,Company - Public,$1 to $2 billion (USD),0.0,0.0, WI,1.0,153.0,0.0,0.0,0.0,1.0,1.0,1001-5000,data engineer,4103.0,60.0
+3.9,Company - Private,$50 to $100 million (USD),0.0,0.0, CA,1.0,14.0,1.0,0.0,0.0,0.0,1.0,51-200,data scientist,3199.0,180.0
+3.8,Company - Private,$2 to $5 billion (USD),0.0,0.0, NY,1.0,21.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,2501.0,65.0
+4.3,Company - Private,$1 to $2 billion (USD),0.0,0.0, NC,0.0,33.0,1.0,0.0,1.0,1.0,0.0,5001-10000,data engineer,4577.0,112.5
+1.9,Company - Private,$100 to $500 million (USD),0.0,0.0, NY,1.0,13.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,4537.0,87.5
+3.3,Company - Private,$10+ billion (USD),0.0,0.0, IN,0.0,111.0,1.0,0.0,0.0,0.0,1.0,10000+,data engineer,4323.0,51.5
+4.7,Company - Private,$10 to $25 million (USD),0.0,0.0, CA,0.0,51.0,0.0,0.0,0.0,0.0,1.0,51-200,scientist,4223.0,51.0
+3.1,Company - Private,$10+ billion (USD),0.0,0.0, MA,0.0,167.0,1.0,0.0,0.0,0.0,1.0,10000+,data scientist,3325.0,62.5
+3.4,Company - Public,Unknown / Non-Applicable,0.0,0.0, AZ,0.0,42.0,0.0,0.0,0.0,0.0,0.0,501-1000,data engineer,3889.0,100.0
+4.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, VA,0.0,19.0,1.0,0.0,1.0,1.0,0.0,51-200,data engineer,2869.0,85.0
+3.9,Company - Private,Unknown / Non-Applicable,0.0,0.0, FL,1.0,11.0,1.0,0.0,0.0,1.0,0.0,201-500,data scientist,5647.0,122.0
+3.9,Company - Private,$100 to $500 million (USD),0.0,0.0, IL,0.0,28.0,1.0,0.0,0.0,0.0,0.0,501-1000,data engineer,4759.0,66.5
+4.7,Company - Private,Unknown / Non-Applicable,0.0,0.0, MO,1.0,21.0,0.0,0.0,1.0,0.0,1.0,1001-5000,data engineer,2708.0,70.5
+4.7,Company - Private,$10 to $25 million (USD),0.0,0.0, TX,1.0,13.0,1.0,0.0,1.0,0.0,0.0,51-200,data engineer,4854.0,138.5
+3.4,Company - Private,$100 to $500 million (USD),0.0,0.0, MA,0.0,80.0,0.0,0.0,1.0,0.0,1.0,1001-5000,data scientist,8761.0,107.5
+3.8,Company - Public,$50 to $100 million (USD),0.0,0.0, MA,1.0,15.0,0.0,0.0,0.0,0.0,0.0,501-1000,scientist,2683.0,120.5
+2.7,Company - Private,$25 to $50 million (USD),0.0,0.0, MD,1.0,62.0,0.0,0.0,0.0,0.0,0.0,201-500,scientist,4740.0,81.0
+3.1,Company - Private,$10+ billion (USD),0.0,0.0, KY,0.0,148.0,0.0,0.0,0.0,0.0,0.0,5001-10000,scientist,5169.0,103.5
+4.0,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,0.0,16.0,1.0,0.0,1.0,1.0,1.0,1001-5000,data engineer,3978.0,162.0
+3.5,Company - Private,$1 to $2 billion (USD),0.0,0.0, CA,1.0,54.0,1.0,0.0,1.0,0.0,1.0,1001-5000,data scientist,3413.0,68.5
+3.4,Company - Public,$5 to $10 billion (USD),0.0,0.0, OH,0.0,45.0,0.0,0.0,0.0,0.0,1.0,10000+,data scientist,1735.0,110.5
+3.7,Subsidiary or Business Segment,$100 to $500 million (USD),0.0,0.0, IA,1.0,28.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,6569.0,115.5
+3.8,Government,$500 million to $1 billion (USD),0.0,0.0, WA,1.0,58.0,0.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,5188.0,80.5
+4.6,Company - Private,$100 to $500 million (USD),0.0,0.0, IA,1.0,31.0,0.0,0.0,0.0,0.0,1.0,501-1000,data engineer,4328.0,43.0
+4.4,Company - Public,Unknown / Non-Applicable,0.0,0.0, MA,1.0,20.0,0.0,0.0,0.0,0.0,1.0,201-500,scientist,5449.0,140.0
+3.0,Company - Private,Unknown / Non-Applicable,0.0,1.0, MA,0.0,28.0,0.0,0.0,0.0,0.0,0.0,Unknown,scientist,3214.0,120.0
+3.0,Company - Private,$5 to $10 billion (USD),0.0,0.0, PA,1.0,40.0,0.0,0.0,0.0,0.0,1.0,5001-10000,data engineer,3766.0,66.5
+4.7,Company - Private,$1 to $5 million (USD),0.0,0.0, CA,0.0,17.0,1.0,0.0,0.0,1.0,0.0,51-200,data engineer,1504.0,94.5
+3.8,Government,$500 million to $1 billion (USD),0.0,0.0, WA,0.0,58.0,0.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,5186.0,119.0
+3.2,Nonprofit Organization,$10+ billion (USD),1.0,0.0, NE,0.0,27.0,0.0,0.0,0.0,0.0,0.0,10000+,scientist,1844.0,25.0
+2.7,Company - Public,$2 to $5 billion (USD),1.0,0.0, TN,0.0,23.0,0.0,0.0,0.0,0.0,1.0,5001-10000,data engineer,4299.0,13.5
+3.3,Company - Private,$10+ billion (USD),0.0,0.0, IL,0.0,111.0,1.0,0.0,0.0,0.0,0.0,10000+,data scientist,3935.0,194.5
+3.9,Nonprofit Organization,$500 million to $1 billion (USD),0.0,0.0, TX,1.0,76.0,1.0,0.0,0.0,1.0,1.0,1001-5000,scientist,2332.0,71.5
+3.7,College / University,Unknown / Non-Applicable,0.0,0.0, TX,1.0,28.0,1.0,0.0,0.0,1.0,0.0,501-1000,data scientist,8734.0,105.5
+3.1,Company - Private,$10+ billion (USD),0.0,0.0, NC,1.0,148.0,0.0,0.0,0.0,0.0,1.0,5001-10000,scientist,6034.0,74.0
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, AL,0.0,101.0,0.0,0.0,0.0,0.0,1.0,10000+,data engineer,4774.0,62.5
+4.3,Nonprofit Organization,$500 million to $1 billion (USD),0.0,0.0, NC,0.0,65.0,0.0,0.0,0.0,0.0,0.0,1001-5000,scientist,2222.0,65.5
+3.6,Company - Private,Unknown / Non-Applicable,0.0,0.0, NJ,1.0,34.0,1.0,0.0,0.0,1.0,1.0,1001-5000,data scientist,5121.0,161.5
+2.1,Other Organization,$100 to $500 million (USD),0.0,0.0, PA,1.0,20.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,1359.0,72.5
+3.9,Company - Public,$10 to $25 million (USD),0.0,0.0, CA,1.0,15.0,1.0,0.0,0.0,1.0,1.0,51-200,data engineer,4915.0,139.0
+3.9,Company - Private,$10 to $25 million (USD),0.0,0.0, CA,1.0,16.0,0.0,0.0,0.0,0.0,0.0,201-500,data engineer,3466.0,136.5
+3.8,Company - Private,$2 to $5 billion (USD),0.0,0.0, NY,1.0,21.0,1.0,0.0,1.0,0.0,0.0,1001-5000,data scientist,3172.0,74.5
+3.1,Company - Private,$10+ billion (USD),0.0,0.0, NC,1.0,148.0,0.0,0.0,0.0,0.0,1.0,5001-10000,scientist,5749.0,80.5
+5.0,Company - Private,$10 to $25 million (USD),0.0,0.0, VA,0.0,9.0,1.0,0.0,0.0,0.0,0.0,51-200,data scientist,2711.0,101.0
+3.6,Company - Public,$10+ billion (USD),0.0,0.0, NJ,0.0,211.0,0.0,0.0,0.0,0.0,1.0,10000+,data scientist,3948.0,116.5
+4.7,Subsidiary or Business Segment,Unknown / Non-Applicable,0.0,0.0, CA,0.0,24.0,1.0,0.0,0.0,0.0,0.0,501-1000,scientist,3855.0,232.5
+3.5,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,7.0,1.0,0.0,0.0,0.0,0.0,51-200,data scientist,2288.0,120.5
+2.7,Company - Public,Unknown / Non-Applicable,0.0,0.0, CA,0.0,16.0,1.0,0.0,1.0,1.0,0.0,10000+,data scientist,6995.0,153.0
+3.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,15.0,1.0,0.0,1.0,0.0,0.0,501-1000,data scientist,3362.0,127.0
+4.7,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,13.0,1.0,0.0,1.0,0.0,1.0,51-200,data scientist,3740.0,85.5
+2.8,Company - Public,$1 to $2 billion (USD),0.0,0.0, NY,1.0,47.0,1.0,0.0,0.0,0.0,1.0,1001-5000,data scientist,3000.0,76.5
+3.5,Subsidiary or Business Segment,$500 million to $1 billion (USD),0.0,0.0, NY,0.0,31.0,1.0,0.0,1.0,0.0,0.0,1001-5000,data scientist,4140.0,128.0
+3.2,Company - Private,$5 to $10 million (USD),0.0,0.0, PA,0.0,28.0,1.0,0.0,1.0,1.0,1.0,1-50,data engineer,1484.0,91.5
+3.7,Subsidiary or Business Segment,$50 to $100 million (USD),0.0,0.0, CA,1.0,35.0,1.0,0.0,1.0,1.0,0.0,1001-5000,data engineer,3218.0,177.0
+4.7,Company - Private,$100 to $500 million (USD),0.0,0.0, VA,0.0,13.0,1.0,0.0,1.0,0.0,1.0,201-500,data scientist,3703.0,107.0
+4.1,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,11.0,1.0,0.0,1.0,0.0,1.0,501-1000,data scientist,4203.0,154.5
+4.0,Company - Private,Less than $1 million (USD),0.0,0.0, CA,0.0,28.0,1.0,0.0,1.0,0.0,0.0,1-50,data scientist,1034.0,113.5
+2.5,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,28.0,1.0,0.0,0.0,0.0,1.0,1-50,data scientist,3885.0,143.5
+3.9,Company - Private,Less than $1 million (USD),0.0,0.0, CA,0.0,28.0,1.0,0.0,0.0,0.0,0.0,1-50,data scientist,2759.0,113.5
+3.4,Company - Public,$10+ billion (USD),0.0,0.0, VA,0.0,54.0,1.0,0.0,0.0,1.0,0.0,10000+,data scientist,2882.0,101.5
+3.6,Subsidiary or Business Segment,$2 to $5 billion (USD),0.0,0.0, NY,0.0,88.0,0.0,0.0,0.0,1.0,1.0,10000+,data engineer,6513.0,73.0
+3.5,Company - Public,$2 to $5 billion (USD),0.0,0.0, NY,0.0,7.0,1.0,0.0,0.0,1.0,0.0,10000+,data scientist,6438.0,80.5
+3.5,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,0.0,28.0,1.0,0.0,0.0,0.0,0.0,Unknown,data scientist,1838.0,110.5
+3.5,Company - Private,$5 to $10 million (USD),0.0,0.0, CA,0.0,28.0,1.0,0.0,0.0,0.0,0.0,51-200,data scientist,1131.0,139.5
+4.8,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,0.0,12.0,1.0,0.0,0.0,0.0,1.0,1-50,data scientist,2145.0,145.5
+4.0,Company - Private,$100 to $500 million (USD),0.0,0.0, NY,1.0,16.0,0.0,0.0,0.0,0.0,1.0,201-500,data scientist,2496.0,87.0
+4.2,Company - Private,$50 to $100 million (USD),0.0,0.0, MA,1.0,138.0,0.0,0.0,0.0,0.0,1.0,201-500,data scientist,5013.0,100.5
+3.8,Company - Public,$10+ billion (USD),0.0,0.0, NY,0.0,56.0,1.0,0.0,1.0,0.0,1.0,10000+,data scientist,5478.0,147.0
+3.7,Company - Private,$100 to $500 million (USD),0.0,0.0, NY,1.0,109.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,1506.0,110.5
+4.6,Company - Private,$5 to $10 million (USD),0.0,0.0, MA,0.0,28.0,1.0,0.0,1.0,1.0,0.0,51-200,data scientist,2956.0,94.0
+4.3,Company - Public,$500 million to $1 billion (USD),0.0,0.0, NY,1.0,24.0,1.0,0.0,0.0,1.0,0.0,1001-5000,data scientist,4816.0,123.5
+4.0,Company - Public,Unknown / Non-Applicable,0.0,0.0, OR,0.0,84.0,0.0,0.0,0.0,0.0,0.0,10000+,data engineer,2195.0,73.0
+3.9,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,1.0,9.0,1.0,0.0,0.0,0.0,0.0,201-500,data scientist,4815.0,165.0
+3.1,School / School District,$100 to $500 million (USD),0.0,0.0, NY,1.0,17.0,1.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,4348.0,59.5
+3.6,Company - Private,$10 to $25 million (USD),0.0,0.0, NY,1.0,43.0,0.0,0.0,0.0,0.0,1.0,1-50,data engineer,2292.0,66.0
+4.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,1.0,11.0,1.0,0.0,0.0,1.0,0.0,51-200,data scientist,4341.0,75.5
+4.0,Company - Public,$100 to $500 million (USD),0.0,0.0, VA,0.0,69.0,1.0,0.0,0.0,0.0,0.0,501-1000,data engineer,3127.0,87.0
+3.9,Company - Public,$10+ billion (USD),0.0,0.0, MD,0.0,110.0,1.0,0.0,0.0,0.0,1.0,10000+,data scientist,4572.0,140.0
+3.7,Company - Private,$25 to $50 million (USD),0.0,0.0, MD,0.0,17.0,1.0,0.0,0.0,0.0,1.0,201-500,data scientist,6626.0,86.0
+4.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,11.0,1.0,0.0,0.0,0.0,0.0,1-50,data scientist,1211.0,116.5
+3.4,Company - Private,$1 to $2 billion (USD),0.0,0.0, TX,0.0,21.0,1.0,0.0,1.0,0.0,1.0,501-1000,data engineer,7802.0,80.0
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, CA,0.0,84.0,1.0,0.0,0.0,0.0,0.0,10000+,data scientist,5884.0,173.0
+3.5,Company - Private,Unknown / Non-Applicable,0.0,0.0, AZ,0.0,26.0,1.0,0.0,1.0,0.0,0.0,501-1000,data engineer,1230.0,68.5
+4.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,1.0,22.0,0.0,0.0,0.0,0.0,0.0,1001-5000,data scientist,3222.0,172.0
+3.9,Company - Public,$10+ billion (USD),0.0,0.0, MD,0.0,110.0,0.0,0.0,0.0,0.0,0.0,10000+,scientist,3110.0,95.0
+3.2,Nonprofit Organization,$1 to $2 billion (USD),0.0,0.0, MA,1.0,65.0,1.0,0.0,0.0,0.0,1.0,5001-10000,data scientist,4478.0,69.5
+4.0,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,1.0,16.0,1.0,0.0,0.0,0.0,1.0,501-1000,data scientist,3431.0,97.5
+3.4,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,0.0,12.0,1.0,0.0,1.0,1.0,0.0,201-500,data scientist,3111.0,95.0
+3.2,Subsidiary or Business Segment,Unknown / Non-Applicable,0.0,0.0, CA,1.0,17.0,0.0,0.0,0.0,1.0,1.0,501-1000,data scientist,4847.0,194.0
+3.5,Company - Public,Unknown / Non-Applicable,0.0,0.0, NY,1.0,18.0,1.0,0.0,1.0,1.0,1.0,201-500,data scientist,4134.0,104.5
+4.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, NC,0.0,15.0,1.0,0.0,0.0,0.0,1.0,201-500,data engineer,5192.0,85.5
+4.2,Nonprofit Organization,Unknown / Non-Applicable,0.0,0.0, UT,1.0,28.0,0.0,0.0,0.0,1.0,1.0,10000+,data engineer,4525.0,50.0
+3.1,Company - Public,$10+ billion (USD),0.0,0.0, CA,0.0,26.0,1.0,0.0,1.0,1.0,1.0,1001-5000,data engineer,2421.0,113.0
+3.9,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,193.0,0.0,0.0,0.0,1.0,0.0,10000+,scientist,5838.0,90.5
+4.3,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,15.0,1.0,0.0,1.0,0.0,1.0,51-200,data scientist,2095.0,153.0
+3.3,Company - Public,$2 to $5 billion (USD),0.0,0.0, CA,1.0,35.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,7383.0,123.5
+3.9,Company - Private,$10 to $25 million (USD),0.0,0.0, NY,1.0,13.0,0.0,0.0,1.0,0.0,0.0,201-500,data engineer,2460.0,47.0
+4.0,Company - Public,$5 to $10 billion (USD),0.0,0.0, CA,1.0,41.0,1.0,0.0,0.0,0.0,1.0,10000+,data scientist,3864.0,162.0
+3.5,Company - Public,$1 to $2 billion (USD),0.0,0.0, CO,0.0,153.0,1.0,0.0,0.0,0.0,1.0,5001-10000,data scientist,3555.0,133.5
+3.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, TN,0.0,19.0,0.0,0.0,0.0,1.0,1.0,1001-5000,data engineer,1793.0,109.0
+3.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,1.0,48.0,1.0,0.0,0.0,1.0,1.0,1001-5000,data engineer,3516.0,125.0
+3.8,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,27.0,1.0,0.0,0.0,0.0,0.0,10000+,data scientist,4033.0,106.5
+3.7,Company - Public,$5 to $10 billion (USD),0.0,0.0, MA,1.0,171.0,0.0,0.0,0.0,0.0,0.0,5001-10000,data engineer,3783.0,54.0
+3.0,Subsidiary or Business Segment,$100 to $500 million (USD),0.0,0.0, FL,1.0,46.0,0.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,6175.0,37.5
+3.8,Company - Private,$2 to $5 billion (USD),0.0,0.0, NY,1.0,21.0,1.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,2479.0,53.5
+4.7,Company - Private,$100 to $500 million (USD),0.0,0.0, CA,1.0,9.0,1.0,0.0,0.0,0.0,1.0,501-1000,data scientist,3939.0,168.0
+3.9,Company - Public,Unknown / Non-Applicable,0.0,0.0, CA,1.0,15.0,1.0,0.0,0.0,0.0,0.0,51-200,data engineer,5717.0,138.5
+3.6,Company - Public,$2 to $5 billion (USD),0.0,0.0, PA,0.0,6.0,0.0,0.0,0.0,0.0,0.0,10000+,data scientist,5025.0,111.5
+3.6,Company - Private,$10+ billion (USD),0.0,0.0, MA,0.0,172.0,0.0,0.0,0.0,0.0,1.0,5001-10000,data scientist,5016.0,68.5
+3.9,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,193.0,0.0,0.0,0.0,1.0,0.0,10000+,scientist,6162.0,84.5
+4.4,Company - Public,$100 to $500 million (USD),0.0,0.0, TN,0.0,17.0,1.0,0.0,1.0,1.0,0.0,1001-5000,data engineer,6130.0,102.5
+3.6,Nonprofit Organization,$50 to $100 million (USD),0.0,0.0, OH,0.0,56.0,1.0,0.0,0.0,0.0,0.0,501-1000,scientist,3673.0,93.5
+3.2,Company - Private,$5 to $10 million (USD),0.0,0.0, PA,0.0,28.0,0.0,0.0,0.0,0.0,1.0,1-50,data scientist,1642.0,127.5
+4.2,Nonprofit Organization,Unknown / Non-Applicable,0.0,0.0, UT,1.0,28.0,0.0,0.0,0.0,0.0,0.0,10000+,data engineer,2811.0,72.0
+3.1,Company - Private,$500 million to $1 billion (USD),0.0,0.0, UT,1.0,46.0,1.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,4386.0,47.0
+3.8,Subsidiary or Business Segment,Unknown / Non-Applicable,0.0,0.0, AL,1.0,9.0,1.0,0.0,1.0,1.0,1.0,501-1000,data engineer,3585.0,65.0
+4.0,Company - Private,$100 to $500 million (USD),0.0,0.0, VA,0.0,11.0,1.0,0.0,0.0,0.0,0.0,501-1000,data engineer,4096.0,94.0
+4.0,Company - Private,$100 to $500 million (USD),0.0,0.0, VA,0.0,11.0,1.0,0.0,1.0,1.0,0.0,501-1000,data engineer,6152.0,97.0
+3.6,Company - Private,$10+ billion (USD),0.0,0.0, MA,0.0,172.0,0.0,0.0,1.0,1.0,1.0,5001-10000,data engineer,4260.0,91.5
+3.8,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,27.0,0.0,0.0,0.0,0.0,0.0,10000+,data scientist,1768.0,114.5
+3.2,Company - Private,$5 to $10 million (USD),0.0,0.0, PA,0.0,28.0,1.0,0.0,0.0,1.0,0.0,1-50,data engineer,1790.0,74.0
+3.8,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,27.0,0.0,0.0,0.0,0.0,0.0,10000+,data scientist,1919.0,121.0
+4.5,Company - Private,$100 to $500 million (USD),0.0,0.0, CA,1.0,17.0,0.0,0.0,0.0,0.0,0.0,201-500,scientist,3726.0,121.5
+3.4,Company - Private,$50 to $100 million (USD),0.0,0.0, AZ,0.0,21.0,1.0,0.0,1.0,1.0,0.0,501-1000,data engineer,1214.0,60.5
+3.3,Company - Private,$1 to $2 billion (USD),0.0,0.0, VA,0.0,6.0,1.0,0.0,1.0,0.0,0.0,1001-5000,data engineer,3392.0,118.5
+3.8,Company - Private,$2 to $5 billion (USD),0.0,0.0, IL,1.0,98.0,1.0,0.0,1.0,0.0,1.0,1001-5000,data engineer,2327.0,58.5
+3.9,Company - Private,$10 to $25 million (USD),0.0,0.0, CA,1.0,16.0,1.0,0.0,1.0,0.0,0.0,201-500,data scientist,2340.0,63.5
+4.1,Company - Public,$1 to $2 billion (USD),0.0,0.0, CA,0.0,42.0,1.0,0.0,0.0,0.0,1.0,5001-10000,data scientist,3329.0,107.0
+3.7,Company - Public,$2 to $5 billion (USD),0.0,0.0, VA,0.0,28.0,1.0,0.0,1.0,0.0,0.0,5001-10000,data engineer,2672.0,105.5
+2.8,Company - Private,$500 million to $1 billion (USD),0.0,0.0, CA,1.0,51.0,0.0,0.0,0.0,0.0,0.0,501-1000,data engineer,3828.0,83.0
+3.0,Company - Public,Unknown / Non-Applicable,0.0,0.0, CA,1.0,29.0,0.0,0.0,0.0,0.0,1.0,501-1000,scientist,4586.0,87.5
+4.0,Company - Public,$10+ billion (USD),0.0,0.0, MA,0.0,174.0,0.0,0.0,0.0,1.0,0.0,10000+,scientist,5701.0,172.0
+3.0,Company - Public,Unknown / Non-Applicable,0.0,0.0, CA,1.0,29.0,0.0,0.0,0.0,0.0,1.0,501-1000,scientist,7777.0,100.0
+4.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,12.0,1.0,0.0,0.0,0.0,1.0,501-1000,data scientist,4951.0,221.5
+3.5,Company - Private,$50 to $100 million (USD),0.0,0.0, IL,1.0,28.0,1.0,0.0,0.0,0.0,0.0,201-500,data engineer,3119.0,95.5
+3.3,Company - Private,$1 to $2 billion (USD),0.0,0.0, NJ,0.0,50.0,1.0,0.0,0.0,0.0,1.0,1001-5000,data engineer,4183.0,173.0
+3.9,Company - Public,$10+ billion (USD),0.0,0.0, MD,0.0,110.0,1.0,0.0,0.0,0.0,1.0,10000+,data scientist,4490.0,147.5
+3.7,Nonprofit Organization,$1 to $2 billion (USD),0.0,0.0, VA,1.0,124.0,0.0,0.0,0.0,0.0,1.0,10000+,data engineer,2948.0,81.0
+3.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, NY,1.0,15.0,1.0,0.0,1.0,0.0,1.0,201-500,data engineer,2689.0,83.0
+4.6,Subsidiary or Business Segment,$5 to $10 million (USD),0.0,0.0, MA,1.0,32.0,0.0,0.0,0.0,1.0,1.0,51-200,scientist,3709.0,121.0
+2.2,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,21.0,0.0,0.0,0.0,0.0,1.0,501-1000,data engineer,4402.0,85.5
+4.6,Subsidiary or Business Segment,$5 to $10 million (USD),0.0,0.0, MA,1.0,32.0,0.0,0.0,0.0,0.0,0.0,51-200,scientist,3180.0,167.5
+2.6,College / University,Unknown / Non-Applicable,0.0,0.0, PA,1.0,39.0,1.0,0.0,0.0,0.0,0.0,501-1000,scientist,2011.0,107.5
+3.4,Nonprofit Organization,$25 to $50 million (USD),0.0,0.0, WA,1.0,44.0,0.0,0.0,0.0,1.0,1.0,501-1000,data engineer,4087.0,44.5
+3.3,Company - Private,$500 million to $1 billion (USD),0.0,0.0, MD,0.0,134.0,0.0,0.0,0.0,0.0,0.0,1001-5000,data engineer,2606.0,107.5
+3.0,Company - Private,Unknown / Non-Applicable,0.0,1.0, MA,0.0,28.0,0.0,0.0,0.0,0.0,0.0,Unknown,scientist,3082.0,132.5
+3.7,Company - Private,$500 million to $1 billion (USD),0.0,0.0, PA,0.0,29.0,0.0,0.0,0.0,0.0,1.0,201-500,data engineer,1865.0,69.5
+3.5,Company - Public,$10+ billion (USD),0.0,0.0, CA,0.0,53.0,1.0,0.0,1.0,1.0,0.0,10000+,data engineer,3926.0,98.5
+2.7,Company - Private,$25 to $50 million (USD),0.0,0.0, MD,1.0,62.0,0.0,0.0,0.0,0.0,1.0,201-500,scientist,3570.0,80.5
+3.8,Company - Private,$10 to $25 million (USD),1.0,0.0, MA,1.0,15.0,0.0,0.0,0.0,0.0,1.0,51-200,scientist,3747.0,37.0
+3.7,Company - Public,$10+ billion (USD),0.0,0.0, MD,0.0,101.0,1.0,0.0,0.0,0.0,0.0,10000+,scientist,4431.0,99.0
+3.8,Company - Public,$50 to $100 million (USD),0.0,0.0, MA,1.0,15.0,0.0,0.0,0.0,0.0,1.0,501-1000,scientist,4465.0,96.5
+3.3,Company - Private,$10+ billion (USD),0.0,0.0, MA,1.0,111.0,0.0,0.0,0.0,0.0,0.0,10000+,data scientist,3448.0,53.0
+2.7,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,12.0,0.0,0.0,1.0,1.0,0.0,1-50,data engineer,4571.0,103.0
+3.9,Company - Public,$10+ billion (USD),0.0,0.0, MD,0.0,110.0,0.0,0.0,0.0,0.0,0.0,10000+,scientist,2391.0,92.0
+3.6,Company - Private,Unknown / Non-Applicable,0.0,0.0, NJ,1.0,34.0,1.0,0.0,0.0,1.0,1.0,1001-5000,data scientist,4648.0,114.0
+3.5,School / School District,$5 to $10 million (USD),0.0,0.0, MO,0.0,28.0,0.0,0.0,0.0,0.0,1.0,1-50,data scientist,3775.0,96.0
+3.4,Company - Private,$10 to $25 million (USD),0.0,0.0, DC,0.0,26.0,1.0,0.0,0.0,0.0,0.0,51-200,data scientist,4662.0,96.5
+4.3,Company - Private,$50 to $100 million (USD),0.0,0.0, AZ,0.0,54.0,1.0,0.0,0.0,0.0,1.0,201-500,data scientist,3728.0,69.5
+2.6,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,26.0,1.0,0.0,0.0,0.0,0.0,10000+,data scientist,2399.0,121.0
+3.8,Subsidiary or Business Segment,$25 to $50 million (USD),0.0,0.0, CA,0.0,18.0,1.0,0.0,0.0,1.0,0.0,201-500,data scientist,2730.0,103.0
+3.2,Nonprofit Organization,$1 to $2 billion (USD),0.0,0.0, VA,0.0,65.0,1.0,0.0,1.0,0.0,1.0,5001-10000,data scientist,3170.0,106.5
+5.0,Company - Private,Unknown / Non-Applicable,0.0,1.0, MI,1.0,12.0,0.0,0.0,0.0,0.0,1.0,51-200,data scientist,3808.0,130.0
+4.3,Company - Public,$500 million to $1 billion (USD),0.0,0.0, NY,1.0,24.0,0.0,0.0,0.0,1.0,1.0,1001-5000,data engineer,4023.0,86.5
+3.4,Company - Private,$5 to $10 million (USD),0.0,0.0, WA,0.0,28.0,0.0,0.0,0.0,0.0,0.0,51-200,data scientist,407.0,89.0
+4.0,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,0.0,17.0,0.0,0.0,0.0,1.0,1.0,501-1000,scientist,3911.0,92.0
+4.1,Company - Private,Unknown / Non-Applicable,0.0,0.0, CA,1.0,16.0,1.0,0.0,0.0,1.0,1.0,1-50,data engineer,3478.0,111.0
+3.9,Company - Private,$100 to $500 million (USD),0.0,0.0, CA,1.0,12.0,1.0,0.0,0.0,1.0,1.0,201-500,data engineer,3813.0,87.5
+2.75,,,,,,,,,,,,,,,,
